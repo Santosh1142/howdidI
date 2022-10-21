@@ -1,3 +1,3 @@
 # howdidI
 
-Thanks to HSG for making to many useful things , will always be greatful
+Thanks to HSG for making me into doing many useful things , will always be greatful
