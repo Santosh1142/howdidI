@@ -1,0 +1,25 @@
+You are given a string s. You need to reverse the string.
+
+Example 1:
+
+Input:
+s = Geeks
+Output: skeeG
+Example 2:
+
+Input:
+s = for
+Output: rof
+
+My thoughts : No Logic
+
+string reverseWord(string str){
+    
+  string s="";
+  int j=str.size()-1;
+  while(j>=0){
+      s=s+str[j];
+      j--;
+  }
+  return s;
+}
